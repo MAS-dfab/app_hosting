@@ -17,4 +17,4 @@ MAS ETH DFAB 24-25 students:
 @arch.ethz
 Institute for Technology in Architecture (ITA)
 
-more information on our website
+more information: https://masdfab.arch.ethz.ch/projects/2024-25/gelatariamulegns.html
