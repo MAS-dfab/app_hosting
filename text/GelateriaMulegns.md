@@ -17,4 +17,4 @@ MAS ETH DFAB 24-25 students:
 @arch.ethz
 Institute for Technology in Architecture (ITA)
 
-more information on our website
+more information on our website 
